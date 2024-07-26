@@ -8,7 +8,7 @@ First, clone this repository to your local machine:
 
 bash
 Copier le code
-git clone https://github.com/your-username/your-repository.git
+**git clone https://github.com/ayman3Dev/Makefile-Generator.git**
 Navigate to the Script Directory:
 
 bash
